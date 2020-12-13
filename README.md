@@ -13,9 +13,9 @@ pip install -r requirements.txt
 
 ## Pending things to do
 
-Update location,latitude,longitude with off_street_name (lost these data).
-Make category on vehicle name.
-Need reorganize script,file,etc.
-Features normalized and categorical variables.
+Update location,latitude,longitude with off_street_name (lost these data).  
+Make category on vehicle name.  
+Need reorganize script,file,etc.  
+Features normalized and categorical variables.  
 
 Pierre Wasilewski
